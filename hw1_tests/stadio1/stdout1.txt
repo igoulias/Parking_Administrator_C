@@ -1,0 +1,17 @@
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: MOTORCYCLES:
+	Number:  2
+CARS:
+	Number:  2
+TRUCKS:
+	Number:  2
+BUSES:
+	Number:  2

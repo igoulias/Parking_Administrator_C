@@ -1,0 +1,44 @@
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Error: Hour must be between 0 and 23 and minute must be between 0 and 59!
+
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Error: Hour must be between 0 and 23 and minute must be between 0 and 59!
+
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Error: Hour must be between 0 and 23 and minute must be between 0 and 59!
+
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: MOTORCYCLES:
+	Number:  0
+	Average parking time:  0 hrs  0 min
+	Income:   0.00
+
+CARS:
+	Number:  1
+	Average parking time:  1 hrs  0 min
+	Income:   2.25
+
+TRUCKS:
+	Number:  1
+	Average parking time:  1 hrs  0 min
+	Income:   5.40
+
+BUSES:
+	Number:  1
+	Average parking time:  0 hrs 32 min
+	Income:   4.59
+
+Total income:  12.24
+	0.00% is moto income
+	18.38% is car income
+	44.12% is truck income
+	37.50% is bus income

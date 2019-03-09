@@ -1,0 +1,38 @@
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): 
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: MOTORCYCLES:
+	Number:  1
+	Average parking time:  0 hrs 10 min
+	Income:   0.13
+
+CARS:
+	Number:  1
+	Average parking time:  0 hrs  1 min
+	Income:   0.04
+
+TRUCKS:
+	Number:  1
+	Average parking time: 14 hrs 59 min
+	Income:  80.91
+
+BUSES:
+	Number:  1
+	Average parking time:  1 hrs  0 min
+	Income:   8.60
+
+Total income:  89.68
+	0.14% is moto income
+	0.04% is car income
+	90.22% is truck income
+	9.59% is bus income

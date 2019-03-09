@@ -1,0 +1,33 @@
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): Please pay 11.63 euros: 
+You paid 12.00
+
+Please take your change: 1 twenties 3 fives 2 cents 
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: MOTORCYCLES:
+	Number:  0
+	Average parking time:  0 hrs  0 min
+	Income:   0.00
+
+CARS:
+	Number:  1
+	Average parking time:  5 hrs 10 min
+	Income:  11.63
+
+TRUCKS:
+	Number:  0
+	Average parking time:  0 hrs  0 min
+	Income:   0.00
+
+BUSES:
+	Number:  0
+	Average parking time:  0 hrs  0 min
+	Income:   0.00
+
+Total income:  11.63
+	0.00% is moto income
+	100.00% is car income
+	0.00% is truck income
+	0.00% is bus income

@@ -1,0 +1,73 @@
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): Please pay 7.39 euros: 
+You paid 8.00
+
+Please take your change: 3 twenties 1 cents 
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): Please pay 2.18 euros: 
+Please pay another 2.18 euros: 
+Please pay another 0.79 euros: 
+Please pay another 0.74 euros: 
+Please pay another 0.01 euros: 
+You paid 2.19
+
+Please take your change: 1 cents 
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): Please pay 7.56 euros: 
+Please pay another 7.01 euros: 
+Please pay another 0.02 euros: 
+You paid 7.56
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): Please pay 33.97 euros: 
+You paid 34.00
+
+Please take your change: 3 cents 
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): Please pay 25.37 euros: 
+You paid 40.00
+
+Please take your change: 14 euros 3 twenties 3 cents 
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): No payment required.
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Enter entry time (HH:MM, 24hr clock): 
+Enter exit time (HH:MM, 24hr clock): No payment required.
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: MOTORCYCLES:
+	Number:  1
+	Average parking time:  0 hrs  0 min
+	Income:   0.00
+
+CARS:
+	Number:  3
+	Average parking time:  4 hrs 15 min
+	Income:   9.57
+
+TRUCKS:
+	Number:  1
+	Average parking time:  1 hrs 24 min
+	Income:   7.56
+
+BUSES:
+	Number:  2
+	Average parking time:  6 hrs 54 min
+	Income:  59.34
+
+Total income:  76.47
+	0.00% is moto income
+	12.51% is car income
+	9.89% is truck income
+	77.60% is bus income

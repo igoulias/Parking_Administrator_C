@@ -1,0 +1,18 @@
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Error: Invalid vehicle type "r"!
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Error: Invalid vehicle type "p"!
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: 
+Error: Invalid vehicle type "q"!
+
+Enter vehicle type (M,m,C,c,T,t,B,b) or x to exit: MOTORCYCLES:
+	Number:  0
+CARS:
+	Number:  0
+TRUCKS:
+	Number:  0
+BUSES:
+	Number:  0
