@@ -6,5 +6,5 @@ For more information check hw1.pdf
 
 In hw1_tests folder there are some test cases and their outputs.
 How to run:
-1)Compile\n
-2)./hw1 < inputX.txt\n
+1)Compile <br/>
+2)./hw1 < inputX.txt
